@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Passkey-Generator/static/css/main.cd0e2c62.css",
+    "main.js": "/Passkey-Generator/static/js/main.d7c7b08d.js",
+    "static/js/592.e015c37e.chunk.js": "/Passkey-Generator/static/js/592.e015c37e.chunk.js",
+    "static/media/rpg.png": "/Passkey-Generator/static/media/rpg.868b99e256bf34b03248.png",
+    "index.html": "/Passkey-Generator/index.html",
+    "main.cd0e2c62.css.map": "/Passkey-Generator/static/css/main.cd0e2c62.css.map",
+    "main.d7c7b08d.js.map": "/Passkey-Generator/static/js/main.d7c7b08d.js.map",
+    "592.e015c37e.chunk.js.map": "/Passkey-Generator/static/js/592.e015c37e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0e2c62.css",
+    "static/js/main.d7c7b08d.js"
+  ]
+}
